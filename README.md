@@ -5,7 +5,7 @@
 - Markup
 - Language
 
-# HTTP
+# HTTP 
 - HyperText
 - Transfer
     - Transferência de Hypertext
@@ -54,3 +54,33 @@ A partir disso, o HTML é impactado visualmente.
 - Declaração
 - Seletor
 - Propriedade e valor
+
+# JS
+- Linguagem de programação
+- Browsers
+- Input -> Process -> Output
+- Variáveis (Local da memória no computador)
+- Function
+    - Agrupamento e reuso de código
+    - Sequência lógica
+    - Saída
+- Gemini (IA): esperar uma reposta
+- Alterar algum elemento do navegador
+- Estrutura de dados
+- Estrutura de decisão
+- Algoritmo é uma sequência de passos lógica, de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
+- Lógica (Pensamento computacional)
+    - Abstração
+    - Decomposição
+    - Algoritmo
+    - Reconhecimento de padrão
+- Tipos de dados
+    - Number (números)
+    - String (textos) (" ", ' ', ` `)
+    - Boolean (true or false)
+    - Objects
+
+# DOM
+- Document
+- Object
+- Model
