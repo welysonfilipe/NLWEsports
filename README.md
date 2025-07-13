@@ -11,6 +11,8 @@
     - Transferência de Hypertext
 - Protocol
     - Conjunto de regras
+- Methods HTTP (Verbo): Get(Solicitando), Post(Enviando informação), Patch/Put, Delete
+- Headers (Cabeçalhos): Instruções/Informações extras para cada chamada (Ligando meu aplicativo a outro) 
 
 # URL
 - Uniform
@@ -84,3 +86,29 @@ A partir disso, o HTML é impactado visualmente.
 - Document
 - Object
 - Model
+
+# API
+- Aplication
+- Programming
+- Interface
+- JSON: JavaScript Object Notation (O mais utilizado para se conversar entre API's)
+
+# CDN
+- Content
+- Delivery
+- Network
+
+# LLM 
+- Large
+- Language
+- Model 
+- Gemini, OpenAI (ChatGPT), Anthropic (Claude) ...
+
+# Agents AI
+- Tools (Ferramentas): Permitem uso de código, ou apps, ou qualquer informação extra
+- Melhor contexto
+
+# Engenharia de prompt
+- One shot: uma única pergunta sem muito contexto
+- Few shot: é apresentado exemplos do que se espera
+- Chain of Thought: Cadeia de pensamento para IA responder gradativamente conforme a instrução
